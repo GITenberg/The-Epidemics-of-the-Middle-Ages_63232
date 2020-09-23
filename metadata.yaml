@@ -1,5 +1,5 @@
 _repo: The-Epidemics-of-the-Middle-Ages_63232
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Babington, B. G. (Benjamin Guy)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '710'
     url: http://www.gutenberg.org/2009/agents/710
     wikipedia: https://en.wikipedia.org/wiki/Benjamin_Guy_Babington
+covers:
+- cover_type: archival
+  image_path: 63232-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hecker, Justus Friedrich Carl
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32107
     wikipedia: http://en.wikipedia.org/wiki/John_Caius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63232#The-Epidemics-of-the-Middle-Ages
 gutenberg_issued: '2020-09-19'
 gutenberg_type: Text
 identifiers:
