@@ -1,0 +1,44 @@
+_repo: The-Epidemics-of-the-Middle-Ages_63232
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Babington, B. G. (Benjamin Guy)
+    alias: Babington, Benjamin Guy
+    birthdate: 1794
+    deathdate: 1866
+    gutenberg_agent_id: '710'
+    url: http://www.gutenberg.org/2009/agents/710
+    wikipedia: https://en.wikipedia.org/wiki/Benjamin_Guy_Babington
+creator:
+  authors:
+  - agent_name: Hecker, Justus Friedrich Carl
+    gutenberg_agent_id: '52339'
+    url: http://www.gutenberg.org/2009/agents/52339
+  - agent_name: Caius, John
+    aliases:
+    - Caius, Iohannes
+    - Kay, John
+    - Cay, John
+    - Keys, John
+    - Kees, John
+    - Keye, John
+    - Key, John
+    - Kaye, John
+    birthdate: 1510
+    deathdate: 1573
+    gutenberg_agent_id: '32107'
+    url: http://www.gutenberg.org/2009/agents/32107
+    wikipedia: http://en.wikipedia.org/wiki/John_Caius
+description: ''
+gutenberg_issued: '2020-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Epidemics of the Middle Ages
+url: http://www.gutenberg.org/ebooks/63232
